@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.a80bb310.chunk.css",
-    "main.js": "/static/js/main.aad01125.chunk.js",
-    "main.js.map": "/static/js/main.aad01125.chunk.js.map",
+    "main.js": "/static/js/main.d97fdda9.chunk.js",
+    "main.js.map": "/static/js/main.d97fdda9.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.36ea4669.js",
     "runtime-main.js.map": "/static/js/runtime-main.36ea4669.js.map",
     "static/css/2.b7edce83.chunk.css": "/static/css/2.b7edce83.chunk.css",
@@ -15,6 +15,7 @@
     "static/media/Businessman-amico.8ebca4ab.svg": "/static/media/Businessman-amico.8ebca4ab.svg",
     "static/media/abhishek-mogaveera.7125ac6a.jpeg": "/static/media/abhishek-mogaveera.7125ac6a.jpeg",
     "static/media/akshat-mishra.fb1d45d3.jpg": "/static/media/akshat-mishra.fb1d45d3.jpg",
+    "static/media/anish-khatu.26bd6a72.jpeg": "/static/media/anish-khatu.26bd6a72.jpeg",
     "static/media/avinash-rajak.352d66bd.jpg": "/static/media/avinash-rajak.352d66bd.jpg",
     "static/media/baliram-pansare.e2715f6b.PNG": "/static/media/baliram-pansare.e2715f6b.PNG",
     "static/media/bhaktij-koli.ddf55783.jpg": "/static/media/bhaktij-koli.ddf55783.jpg",
@@ -41,6 +42,6 @@
     "static/css/2.b7edce83.chunk.css",
     "static/js/2.84ed824d.chunk.js",
     "static/css/main.a80bb310.chunk.css",
-    "static/js/main.aad01125.chunk.js"
+    "static/js/main.d97fdda9.chunk.js"
   ]
 }
