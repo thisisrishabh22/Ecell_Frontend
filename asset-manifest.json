@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.a80bb310.chunk.css",
-    "main.js": "/static/js/main.d97fdda9.chunk.js",
-    "main.js.map": "/static/js/main.d97fdda9.chunk.js.map",
+    "main.css": "/static/css/main.0977c6f3.chunk.css",
+    "main.js": "/static/js/main.e82003d8.chunk.js",
+    "main.js.map": "/static/js/main.e82003d8.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.36ea4669.js",
     "runtime-main.js.map": "/static/js/runtime-main.36ea4669.js.map",
     "static/css/2.b7edce83.chunk.css": "/static/css/2.b7edce83.chunk.css",
@@ -10,7 +10,7 @@
     "static/js/2.84ed824d.chunk.js.map": "/static/js/2.84ed824d.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.b7edce83.chunk.css.map": "/static/css/2.b7edce83.chunk.css.map",
-    "static/css/main.a80bb310.chunk.css.map": "/static/css/main.a80bb310.chunk.css.map",
+    "static/css/main.0977c6f3.chunk.css.map": "/static/css/main.0977c6f3.chunk.css.map",
     "static/js/2.84ed824d.chunk.js.LICENSE.txt": "/static/js/2.84ed824d.chunk.js.LICENSE.txt",
     "static/media/Businessman-amico.8ebca4ab.svg": "/static/media/Businessman-amico.8ebca4ab.svg",
     "static/media/abhishek-mogaveera.7125ac6a.jpeg": "/static/media/abhishek-mogaveera.7125ac6a.jpeg",
@@ -23,25 +23,28 @@
     "static/media/styles.css": "/static/media/ecell-bg.24a2534f.svg",
     "static/media/event2.c7b3627b.webp": "/static/media/event2.c7b3627b.webp",
     "static/media/event3.34b2784c.webp": "/static/media/event3.34b2784c.webp",
+    "static/media/jayesh-mentor.d512bcbe.jpg": "/static/media/jayesh-mentor.d512bcbe.jpg",
     "static/media/kcecell.a58b3729.png": "/static/media/kcecell.a58b3729.png",
     "static/media/nidhi-shettigar.15be67ae.jpeg": "/static/media/nidhi-shettigar.15be67ae.jpeg",
     "static/media/omkar-karanje.592c0267.jpg": "/static/media/omkar-karanje.592c0267.jpg",
     "static/media/parth-tawde.b061e025.png": "/static/media/parth-tawde.b061e025.png",
     "static/media/priyanka-kapale.fa05e009.jpeg": "/static/media/priyanka-kapale.fa05e009.jpeg",
     "static/media/rishabh-singh.4c9f559d.png": "/static/media/rishabh-singh.4c9f559d.png",
+    "static/media/sahil-mentor.85b4077c.jpg": "/static/media/sahil-mentor.85b4077c.jpg",
     "static/media/sayli-tawhare.2ca71cc7.jpg": "/static/media/sayli-tawhare.2ca71cc7.jpg",
     "static/media/shreya-shet.e7313469.jpeg": "/static/media/shreya-shet.e7313469.jpeg",
     "static/media/shriyash-jadhav.9423d8bd.png": "/static/media/shriyash-jadhav.9423d8bd.png",
     "static/media/sumedh-inulkar.98e46978.jpeg": "/static/media/sumedh-inulkar.98e46978.jpeg",
     "static/media/tejas-shetty.7573cf9b.jpg": "/static/media/tejas-shetty.7573cf9b.jpg",
     "static/media/vishal-ludhrani.95cc9fee.jpeg": "/static/media/vishal-ludhrani.95cc9fee.jpeg",
-    "static/media/vishal-pednekar.b0005f03.jpg": "/static/media/vishal-pednekar.b0005f03.jpg"
+    "static/media/vishal-pednekar.b0005f03.jpg": "/static/media/vishal-pednekar.b0005f03.jpg",
+    "static/media/yogesh-sir.5ecaae15.png": "/static/media/yogesh-sir.5ecaae15.png"
   },
   "entrypoints": [
     "static/js/runtime-main.36ea4669.js",
     "static/css/2.b7edce83.chunk.css",
     "static/js/2.84ed824d.chunk.js",
-    "static/css/main.a80bb310.chunk.css",
-    "static/js/main.d97fdda9.chunk.js"
+    "static/css/main.0977c6f3.chunk.css",
+    "static/js/main.e82003d8.chunk.js"
   ]
 }
